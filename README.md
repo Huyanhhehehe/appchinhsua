@@ -196,8 +196,8 @@
 
     <div id="group3" class="group">
       <h3>Ánh sáng & tương phản</h3>
-      <label>Độ sáng: <input type="range" id="brightnessRange" min="-100" max="100" value="0"></label><br>
-      <label>Độ tương phản: <input type="range" id="contrastRange" min="-100" max="100" value="0"></label>
+      <label>Độ sáng: <input type="range" id="brightnessRange" min="-200" max="200" value="0"></label><br>
+      <label>Độ tương phản: <input type="range" id="contrastRange" min="-200" max="200" value="0"></label>
     </div>
 
 
